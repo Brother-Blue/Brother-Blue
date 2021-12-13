@@ -4,8 +4,7 @@ I'm a software engineering and management student at Göteborgs Universitet with
 I enjoy participating in hackathons and coding challenges and fiddling around with my Arduino and Raspberry Pi. Aside from technology, I find myself lost in cooking and baking, hiking and exploring all the things the cities have to offer.
 
 #### Languages
-:us: English - Native speaker
-
+:us: English - Native speaker <br>
 :sweden: Swedish - Proficient
 <hr>
 
@@ -13,6 +12,7 @@ I enjoy participating in hackathons and coding challenges and fiddling around wi
 <a href = "mailto: oneill.christian97@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href = "https://www.messenger.com/t/100008549260256">![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a>
 <a href = "https://www.linkedin.com/in/its-christian-oneill/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href = "https://discordapp.com/users/752485087018221681">![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 <a href="https://github.com/Brother-Blue">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brother-Blue&show_icons=true&count_private=true" />
