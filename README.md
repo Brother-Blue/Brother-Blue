@@ -13,8 +13,8 @@ I enjoy participating in hackathons and coding challenges and fiddling around wi
 <a href = "https://www.linkedin.com/in/its-christian-oneill/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "https://discordapp.com/users/752485087018221681">![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-![Brother-Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brother-Blue&show_icons=true&count_private=true&count_private=true&line_height=47&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brother-Blue&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Brother-Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brother-Blue&show_icons=true&count_private=true&line_height=40&custom_title=My%20Github%20Stats&bg_color=40,170000,00002A&title_color=E84D5F&text_color=f4f4f4&icon_color=A6FBFF&border_color=A6FBFF&border_radius=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brother-Blue&langs_count=5&custom_title=Top%20Languages&bg_color=40,170000,00002A&title_color=E84D5F&text_color=f4f4f4&icon_color=A6FBFF&border_color=A6FBFF&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Project Design & Management
