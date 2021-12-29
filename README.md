@@ -8,15 +8,14 @@ I enjoy participating in hackathons and coding challenges and fiddling around wi
 :sweden: Swedish - Proficient
 <hr>
 
-📫 How to contact me:<br>
 <a href = "mailto: oneill.christian97@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href = "https://www.messenger.com/t/100008549260256">![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a>
 <a href = "https://www.linkedin.com/in/its-christian-oneill/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "https://discordapp.com/users/752485087018221681">![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-<a href="https://github.com/Brother-Blue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brother-Blue&show_icons=true&count_private=true" />
-</a>
+![Brother-Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brother-Blue&show_icons=true&count_private=true&count_private=true&line_height=47&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brother-Blue&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Project Design & Management
 ### ✨ Experience with:<br>
