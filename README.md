@@ -9,7 +9,6 @@ I enjoy participating in hackathons and coding challenges and fiddling around wi
 <hr>
 
 <a href = "mailto: oneill.christian97@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href = "https://www.messenger.com/t/100008549260256">![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a>
 <a href = "https://www.linkedin.com/in/its-christian-oneill/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "https://discordapp.com/users/752485087018221681">![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
