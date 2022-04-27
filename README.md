@@ -1,11 +1,15 @@
 <div align="center">
-
-![Brother-Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brother-Blue&show_icons=true&count_private=true&include_all_commits=true&line_height=40&custom_title=My%20Github%20Stats&bg_color=40,170000,00002A&title_color=E84D5F&text_color=f4f4f4&icon_color=A6FBFF&border_color=A6FBFF&border_radius=10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brother-Blue&langs_count=5&custom_title=Top%20Languages&bg_color=40,170000,00002A&title_color=E84D5F&text_color=f4f4f4&icon_color=A6FBFF&border_color=A6FBFF&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=brother-blue&color=1D1C40" alt=""/>
+  <div align="left">
+    <img src="https://komarev.com/ghpvc/?username=brother-blue&style=for-the-badge&color=41B782" alt=""/>
   </div>
+  <div align="left">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/brother-blue?cardType=level-alternate&theme=vue-dark" height="200" />
+  </div>
+  <div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=brother-blue&theme=vue-dark&date_format=j%20M%5B%20Y%5D&border=DDDDDD" height="200"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brother-blue&layout=compact&theme=vue-dark"  height="200" />
+  </div>
+  
 
   ## Project Design & Management
   
