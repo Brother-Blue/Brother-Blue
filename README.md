@@ -8,6 +8,8 @@
   </div>
   <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=brother-blue&theme=vue-dark&date_format=j%20M%5B%20Y%5D&border=DDDDDD" height="200"  />
+  </div>
+  <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brother-blue&layout=compact&theme=vue-dark"  height="200" />
   </div>
   
