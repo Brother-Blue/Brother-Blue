@@ -4,10 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=brother-blue&style=for-the-badge&color=41B782" alt=""/>
   </div>
   <div>
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/brother-blue?cardType=level-alternate&theme=vue-dark" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brother-blue&layout=compact&theme=vue-dark"  height="150" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brother-blue&theme=vue-dark&date_format=j%20M%5B%20Y%5D&border=DDDDDD" height="150"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=brother-blue&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats" alt="" />
   </div>
 </div>
